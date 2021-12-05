@@ -1,0 +1,19 @@
+body{
+    background-color: hsl(0, 4%, 29%);
+}
+.h1{
+    background: aquamarine;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin: 0px;
+}
+.h2{
+    background: aquamarine;
+    text-align: center;
+    height: 50px;
+
+}
+p.centrado {
+    text-align: center;
+  }
